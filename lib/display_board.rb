@@ -7,6 +7,6 @@ def display_board
   separates = "-----------"
   puts separates
   
-  board = [cell, row, separates]
+  board = [row, separates]
   
 end
