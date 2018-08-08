@@ -7,7 +7,5 @@ def display_board
   separates = "-----------"
   puts separates
   
-  3.times { print row }
-  2.times { puts separates }
-
+  board = "   |   |   \n-----------\n   |   |   \n-----------\n   |   | \n"
 end
