@@ -2,5 +2,6 @@
 def display_board
   cell = "   "
   puts cell
-  3.times {print "cell"}
+  row = "   |   |   "
+  puts row
 end
