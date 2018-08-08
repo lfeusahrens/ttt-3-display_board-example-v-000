@@ -5,11 +5,11 @@ def display_board
   row = "   |   |   "
   puts row
   separates = "-----------"
-  prints separates
-  puts row
-  puts separates
-  puts row
-  puts separates
-  puts row
+  print separates
+  print row
+  print separates
+  print row
+  print separates
+  print row
 end
 
