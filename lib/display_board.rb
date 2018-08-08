@@ -13,4 +13,3 @@ def display_board
   print separates
   print row
 end
-
