@@ -8,4 +8,4 @@ def display_board
   puts separates
 end
 
-3.times { print display_board}
+#display_board
