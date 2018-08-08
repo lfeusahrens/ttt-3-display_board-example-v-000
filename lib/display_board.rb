@@ -8,9 +8,6 @@ def display_board
   puts separates
   
   3.times { print row }
-  2.times { print separates }
-  print separates
-  print row
-  print separates
-  print row
+  2.times { puts separates }
+
 end
