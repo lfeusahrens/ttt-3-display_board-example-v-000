@@ -12,3 +12,4 @@ def display_board
   puts separates
   puts row
 end
+
