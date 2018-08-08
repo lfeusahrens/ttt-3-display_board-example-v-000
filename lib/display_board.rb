@@ -8,4 +8,5 @@ def display_board
   puts separates
   
   board = [cell, row, separates]
+  
 end
