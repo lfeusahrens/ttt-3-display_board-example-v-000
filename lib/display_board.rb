@@ -6,6 +6,7 @@ def display_board
   puts row
   separates = "-----------"
   puts separates
+  
   print row
   print separates
   print row
