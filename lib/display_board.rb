@@ -7,7 +7,7 @@ def display_board
   separates = "-----------"
   puts separates
   
-  print row
+  3.times { print "Hello!" }
   print separates
   print row
   print separates
