@@ -9,4 +9,6 @@ def display_board
   puts row
   puts separates
   puts row
+  puts separates
+  puts row
 end
