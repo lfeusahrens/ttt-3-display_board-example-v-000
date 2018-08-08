@@ -8,4 +8,4 @@ def display_board
   puts separates
 end
 
-display_board
+3.times {display_board
